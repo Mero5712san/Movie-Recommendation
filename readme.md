@@ -141,7 +141,7 @@ Open the frontend at `http://localhost:5173` and backend at `http://127.0.0.1:80
 ##  Frontend Showcase
 
 ## Over All view
-![Carousel Screenshot](frontend/src/assets/overall.png)
+![Carousel Screenshot](frontend/src/assets/OverAll.png)
 *overll view of the application*
 
 ### Movie Carousel
